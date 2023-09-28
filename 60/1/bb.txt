@@ -1,0 +1,5 @@
+Registration Email verification
+invalid message show within the form
+payment done message show on admin view
+success message on every form submission
+captcha
